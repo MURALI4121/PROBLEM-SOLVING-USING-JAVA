@@ -1,6 +1,5 @@
 package A_BASIC_SYNTAX_AND_STRUCTURE;
 
-import java.sql.SQLOutput;
 
 class method {
 
