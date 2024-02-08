@@ -1,6 +1,6 @@
 package A_BASIC_SYNTAX_AND_STRUCTURE;
 
-public class twoMethods {
+class twoMethods {
 
 
     public static void displayMessage() {
