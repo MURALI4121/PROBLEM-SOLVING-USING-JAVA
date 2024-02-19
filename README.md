@@ -1,7 +1,6 @@
 
 
-DAY 1(07-02-2024) - DAY 10(17-02-2024) JAVA FUNDAMENTALS
-
+DAY 1(07-02-2024) - DAY 10(17-02-2024) - JAVA FUNDAMENTALS
 - Basic Syntax and Structure
 - Variables and Data Types
 - Basic Input and Output
@@ -10,14 +9,15 @@ DAY 1(07-02-2024) - DAY 10(17-02-2024) JAVA FUNDAMENTALS
 - Functions (Methods)
 - Arrays
 - Strings
+  
 Before embarking on my journey with Data Structures and Algorithms, I thoroughly covered all the necessary concepts, 
 enhancing my understanding by practicing and solving over 100+ problems across these topics.
 
 DAY 11(18-02-2024) - Took day off and recharged myself for the next big steps
 
 DAY 12(19-02-2024) - TIME AND SPACE COMPLEXITY ANALYSIS
-- BIG O NOTATION
-- OMEGA NOTATION
-- THETA NOTATION
-- LITTLE O AND OMEGA NOTATIONS
-- SPACE COMPLEXITY ANALYSIS
+- Big O notation
+- Omega notation
+- Theta notation
+- Little o and omega notations
+- Space complexity analysis
