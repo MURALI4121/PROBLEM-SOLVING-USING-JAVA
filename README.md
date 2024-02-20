@@ -21,3 +21,9 @@ DAY 12(19-02-2024) - TIME AND SPACE COMPLEXITY ANALYSIS
 - Theta notation
 - Little o and omega notations
 - Space complexity analysis
+
+DAY 13(20-02-2024) - RECURSION AND BACKTRACKING
+-Basics of Recursion
+-Types of Recursion
+-Recursion vs Iteration
+-Solving Problems with Recursion
