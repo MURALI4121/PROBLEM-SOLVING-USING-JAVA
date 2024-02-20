@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-
-
-
-=======
-	
->>>>>>> f0a8fe89eaedd9d7cdad945302be5ce3ea85d190
-
 
 DAY 1(07-02-2024) - DAY 10(17-02-2024) - JAVA FUNDAMENTALS
 - Basic Syntax and Structure
@@ -19,13 +8,8 @@ DAY 1(07-02-2024) - DAY 10(17-02-2024) - JAVA FUNDAMENTALS
 - Functions (Methods)
 - Arrays
 - Strings
-<<<<<<< HEAD
-
-Before embarking on my journey with Data Structures and Algorithms, I thoroughly covered all the necessary concepts,
-=======
   
-Before embarking on my journey with Data Structures and Algorithms, I thoroughly covered all the necessary concepts, 
->>>>>>> f0a8fe89eaedd9d7cdad945302be5ce3ea85d190
+Before embarking on my journey with Data Structures and Algorithms, I thoroughly covered all the necessary concepts,
 enhancing my understanding by practicing and solving over 100+ problems across these topics.
 
 DAY 11(18-02-2024) - Took day off and recharged myself for the next big steps
@@ -41,9 +25,4 @@ DAY 13(20-02-2024) - RECURSION AND BACKTRACKING
 - Basics of Recursion
 - Types of Recursion
 - Recursion vs Iteration
-- Solving Problems with Recursion and understanding the concepts
-<<<<<<< HEAD
-
->>>>>>> feature-branch
-=======
->>>>>>> f0a8fe89eaedd9d7cdad945302be5ce3ea85d190
+- Solving Problems with Recursion and understanding the concepts clearly
