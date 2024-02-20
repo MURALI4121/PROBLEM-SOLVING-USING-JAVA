@@ -6,10 +6,12 @@ class RecursionFibonacciExample {
     }
 
     public static int fibonacci(int n){
-
+        //base case
         if (n<2){
             return n;
         }
+
+        // recursive call
         return fibonacci(n-1) + fibonacci(n-2);
     }
 }

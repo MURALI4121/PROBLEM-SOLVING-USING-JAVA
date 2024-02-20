@@ -12,7 +12,7 @@ class SumOfFirstNnumbers {
         if(n <= 0){
             return 0;
         }
-        //Recursion Step : Sum of n is n plus sum of n-1
+        //Recursion Step : Sum of n is n + sum of n-1
         return n + Sum(n-1);
     }
 }

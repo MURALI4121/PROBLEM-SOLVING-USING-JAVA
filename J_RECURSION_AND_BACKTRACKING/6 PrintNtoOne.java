@@ -2,7 +2,7 @@ package J_RECURSION_AND_BACKTRACKING;
 
 class PrintNtoOne {
     public static void main(String[] args) {
-        int N = 10;
+        int N = 10; // you can give any positive number
         PrintNumber(N);
 
     }

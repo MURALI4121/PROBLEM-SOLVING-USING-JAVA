@@ -14,7 +14,7 @@ class PrintOneToN {
             return;
         }
         System.out.println(one);
-        //Recursive call with incremented start
+        //Recursive call with incremented Start
         PrintNumbers(one + 1, N);
     }
 }

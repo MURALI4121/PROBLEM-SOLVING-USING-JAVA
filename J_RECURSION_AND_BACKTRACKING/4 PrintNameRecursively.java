@@ -12,7 +12,7 @@ class PrintNameRecursively {
         if (n == 0) {
             return;
         }
-        // print the name
+        // print the Name
         System.out.println(name);
 
         //Recursive call with n-1
