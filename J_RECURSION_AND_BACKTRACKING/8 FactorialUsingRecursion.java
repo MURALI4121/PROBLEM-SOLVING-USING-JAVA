@@ -2,7 +2,7 @@ package J_RECURSION_AND_BACKTRACKING;
 
 class FactorialUsingRecursion {
     public static void main(String[] args) {
-        int N = 3;
+        int N = 3 ;
         System.out.println(factorial(N));
     }
 
