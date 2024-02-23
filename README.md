@@ -21,8 +21,22 @@ DAY 12(19-02-2024) - TIME AND SPACE COMPLEXITY ANALYSIS
 - Little o and omega notations
 - Space complexity analysis
 
-DAY 13(20-02-2024) - RECURSION AND BACKTRACKING
+DAY 13(20-02-2024) - DAY 15(22-02-2024) RECURSION AND BACKTRACKING
 - Basics of Recursion
 - Types of Recursion
 - Recursion vs Iteration
-- Solving Problems with Recursion and understanding the concepts clearly
+- Solved Problems with Recursion and understanding the concepts clearly
+- Basics of Backtracking
+- Key Concepts : Decision tree , states , Base Case, Choices, Constraints ,Goal
+- this two days covered only basics of Recursion and backtracking, And recursion will come through the remaining section and 
+   going to improve overtime by solving problems
+
+DAY 14(23-02-2024) - Hashing(basics)
+- Hash Function
+- Efficiency
+- Fixed Size output
+- Collision handling
+- Use Cases
+- security
+- hashTable
+

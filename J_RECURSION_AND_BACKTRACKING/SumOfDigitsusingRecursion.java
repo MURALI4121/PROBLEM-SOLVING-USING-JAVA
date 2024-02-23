@@ -1,6 +1,6 @@
 package J_RECURSION_AND_BACKTRACKING;
 
-public class SumOfDigits {
+class SumOfDigits {
     public static void main(String[] args) {
         int sum = Sum(1432);
         System.out.println(sum);
