@@ -40,3 +40,9 @@ DAY 14(23-02-2024) - Hashing(basics)
 - security
 - hashTable
 
+DAY 15(24-02-2024) - SORTING
+- What is Sorting
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+
