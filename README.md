@@ -21,7 +21,7 @@ DAY 12(19-02-2024) - TIME AND SPACE COMPLEXITY ANALYSIS
 - Little o and omega notations
 - Space complexity analysis
 
-DAY 13(20-02-2024) - DAY 15(22-02-2024) RECURSION AND BACKTRACKING
+DAY 13(20-02-2024) - DAY 14(22-02-2024) RECURSION AND BACKTRACKING
 - Basics of Recursion
 - Types of Recursion
 - Recursion vs Iteration
@@ -31,7 +31,7 @@ DAY 13(20-02-2024) - DAY 15(22-02-2024) RECURSION AND BACKTRACKING
 - this two days covered only basics of Recursion and backtracking, And recursion will come through the remaining section and 
    going to improve overtime by solving problems
 
-DAY 14(23-02-2024) - Hashing(basics)
+DAY 15(23-02-2024) - Hashing(basics)
 - Hash Function
 - Efficiency
 - Fixed Size output
@@ -40,7 +40,7 @@ DAY 14(23-02-2024) - Hashing(basics)
 - security
 - hashTable
 
-DAY 15(24-02-2024) - SORTING
+DAY 16(24-02-2024) - SORTING
 - What is Sorting
 - Selection Sort
 - Bubble Sort
