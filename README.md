@@ -40,9 +40,13 @@ DAY 15(23-02-2024) - Hashing(basics)
 - security
 - hashTable
 
-DAY 16(24-02-2024) - SORTING
+DAY 16(24-02-2024) - DAY 21(28-02-2024) - SORTING
 - What is Sorting
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
+- MergeSort
+- QuickSort
+- Spent each Day on one topic and learnt how the each algorithm works and 
+  how to implement each algorithm and their complexities and solved few problems on each algorithm.
 
