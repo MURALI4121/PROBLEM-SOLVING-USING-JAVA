@@ -1,4 +1,7 @@
 package LEETCODE_ARRAYS;
+
+import java.util.HashSet;
+
 class RemoveDuplicateElements {
 
     public int removeDuplicates(int[] nums){
@@ -20,7 +23,7 @@ class RemoveDuplicateElements {
     }
     public static void main(String[] args) {
         RemoveDuplicateElements duplicate = new RemoveDuplicateElements();
-        int[] nums = {0,0,1,1,1,2,2,3,3,4};
+        int[] nums = {0,0,1,1,-1,2,2,3,3,4};
 
         int newLength = duplicate.removeDuplicates(nums);
 
