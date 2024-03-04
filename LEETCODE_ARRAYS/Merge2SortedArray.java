@@ -7,7 +7,7 @@ public class Merge2SortedArray {
 
     public static ArrayList<Integer> FindUnion(int arr1[], int arr2[], int n, int m) {// add the both array element unique values to this array as it only stores unique elements
         int i = 0;
-        int j = 0; // two pointers
+        int j = 0; //two pointers
 
         ArrayList<Integer> Union = new ArrayList<>(); // this is union Array
 

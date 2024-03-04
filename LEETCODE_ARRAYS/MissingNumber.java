@@ -16,6 +16,6 @@ public class MissingNumber {
         int[] nums = {9,6,4,2,3,5,7,0,1};
 
         int result = missingNumber(nums);
-        System.out.println("the missing number is : " + result);
+        System.out.println("The missing number is : " + result);
     }
 }
