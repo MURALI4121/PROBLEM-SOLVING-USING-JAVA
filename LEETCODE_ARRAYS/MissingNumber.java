@@ -5,12 +5,14 @@ public class MissingNumber {
     public static int missingNumber(int[] nums ) {
 
         int n = nums.length;
+
+        // formula for sum of n natural numbers
         int expectedSum = n*(n+1)/2;
         int actualSum = 0;
         for (int i = 0; i < n ; i++) {
             actualSum = actualSum + nums[i];
         }
-        return expectedSum - actualSum;
+        return expectedSum - actualSum; // difference of numbers 
     }
     public static void main(String[] args) {
         int[] nums = {9,6,4,2,3,5,7,0,1};

@@ -16,10 +16,9 @@ class LinearSearch {
 
     public static void main(String[] args) {
         int[] arr = {6, 7, 8, 4, 1};
-        int num = 4;
+        int num = 4; // number to search in array
 
         int output = linearSearch(arr, num);
-
         System.out.println(" the index num present is " + output);
     }
 }
