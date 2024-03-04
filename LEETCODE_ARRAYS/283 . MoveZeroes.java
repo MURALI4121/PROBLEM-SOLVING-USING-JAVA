@@ -1,6 +1,6 @@
 package LEETCODE_ARRAYS;
 
-public class MoveZeroes {
+class MoveZeroes {
 
   public static void moveZeroes(int[] nums){
       int j = 0;
