@@ -1,5 +1,5 @@
 package M_BINARY_SEARCH;
-public class BinarySearchExample {
+ class BinarySearchExample {
     public static int binarySearch(int[] arr, int target) {
 
         int low = 0;
