@@ -1,6 +1,6 @@
 package LEETCODE_STRINGS;
 
- class beautySum {
+ class BeautySum {
     public int beautySum(String s) {
         int res = 0;
         for (int i = 0; i < s.length(); i++) {
