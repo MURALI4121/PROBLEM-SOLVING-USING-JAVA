@@ -58,7 +58,8 @@ public class SinglyLL {
 
     public int deleteFirst(){
         int val = head.data;
-        
+
+        return val;
     }
 
     public void display() {
