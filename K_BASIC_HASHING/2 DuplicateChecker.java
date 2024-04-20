@@ -1,4 +1,4 @@
-package K_HASHING;
+package K_BASIC_HASHING;
 
 import java.util.HashMap;
 
